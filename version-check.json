@@ -1,0 +1,289 @@
+{
+  "offers": [
+    {
+      "response": "upgrade",
+      "download": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-5.0.1-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-5.0.1-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "5.0.1",
+      "version": "5.0.1",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-5.0.1-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-5.0.1-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "5.0.1",
+      "version": "5.0.1",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.9.9.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.9.9.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.9.9-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.9.9-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.9.9",
+      "version": "4.9.9",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.8.8.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.8.8.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.8.8-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.8.8-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.8.8",
+      "version": "4.8.8",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.7.12.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.7.12.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.7.12-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.7.12-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.7.12",
+      "version": "4.7.12",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.6.13.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.6.13.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.6.13-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.6.13-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.6.13",
+      "version": "4.6.13",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.5.16.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.5.16.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.5.16-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.5.16-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.5.16",
+      "version": "4.5.16",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.4.17.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.4.17.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.4.17-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.4.17-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.4.17",
+      "version": "4.4.17",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.3.18.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.3.18.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.3.18-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.3.18-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.3.18",
+      "version": "4.3.18",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.2.22.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.2.22.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.2.22-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.2.22-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.2.22",
+      "version": "4.2.22",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.1.25.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.1.25.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.1.25-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.1.25-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.1.25",
+      "version": "4.1.25",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.0.25.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-4.0.25.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.0.25-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.0.25-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "4.0.25",
+      "version": "4.0.25",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-3.9.26.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-3.9.26.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-3.9.26-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-3.9.26-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "3.9.26",
+      "version": "3.9.26",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-3.8.28.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-3.8.28.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-3.8.28-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-3.8.28-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "3.8.28",
+      "version": "3.8.28",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    },
+    {
+      "response": "autoupdate",
+      "download": "https://downloads.wordpress.org/release/wordpress-3.7.28.zip",
+      "locale": "en_US",
+      "packages": {
+        "full": "https://downloads.wordpress.org/release/wordpress-3.7.28.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-3.7.28-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-3.7.28-new-bundled.zip",
+        "partial": false,
+        "rollback": false
+      },
+      "current": "3.7.28",
+      "version": "3.7.28",
+      "php_version": "5.2.4",
+      "mysql_version": "5.0",
+      "new_bundled": "5.0",
+      "partial_version": false,
+      "new_files": true
+    }
+  ],
+  "translations": []
+}
