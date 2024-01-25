@@ -2,17 +2,17 @@
   "offers": [
     {
       "response": "upgrade",
-      "download": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.9.8.zip",
       "locale": "en_US",
       "packages": {
-        "full": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
-        "no_content": "https://downloads.wordpress.org/release/wordpress-5.0.1-no-content.zip",
-        "new_bundled": "https://downloads.wordpress.org/release/wordpress-5.0.1-new-bundled.zip",
+        "full": "https://downloads.wordpress.org/release/wordpress-4.9.8.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.9.8-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.9.8-new-bundled.zip",
         "partial": false,
         "rollback": false
       },
-      "current": "5.0.1",
-      "version": "5.0.1",
+      "current": "4.9.8",
+      "version": "4.9.8",
       "php_version": "5.2.4",
       "mysql_version": "5.0",
       "new_bundled": "5.0",
@@ -20,41 +20,21 @@
     },
     {
       "response": "autoupdate",
-      "download": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
+      "download": "https://downloads.wordpress.org/release/wordpress-4.9.8.zip",
       "locale": "en_US",
       "packages": {
-        "full": "https://downloads.wordpress.org/release/wordpress-5.0.1.zip",
-        "no_content": "https://downloads.wordpress.org/release/wordpress-5.0.1-no-content.zip",
-        "new_bundled": "https://downloads.wordpress.org/release/wordpress-5.0.1-new-bundled.zip",
+        "full": "https://downloads.wordpress.org/release/wordpress-4.9.8.zip",
+        "no_content": "https://downloads.wordpress.org/release/wordpress-4.9.8-no-content.zip",
+        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.9.8-new-bundled.zip",
         "partial": false,
         "rollback": false
       },
-      "current": "5.0.1",
-      "version": "5.0.1",
+      "current": "4.9.8",
+      "version": "4.9.8",
       "php_version": "5.2.4",
       "mysql_version": "5.0",
       "new_bundled": "5.0",
-      "partial_version": false,
-      "new_files": true
-    },
-    {
-      "response": "autoupdate",
-      "download": "https://downloads.wordpress.org/release/wordpress-4.9.9.zip",
-      "locale": "en_US",
-      "packages": {
-        "full": "https://downloads.wordpress.org/release/wordpress-4.9.9.zip",
-        "no_content": "https://downloads.wordpress.org/release/wordpress-4.9.9-no-content.zip",
-        "new_bundled": "https://downloads.wordpress.org/release/wordpress-4.9.9-new-bundled.zip",
-        "partial": false,
-        "rollback": false
-      },
-      "current": "4.9.9",
-      "version": "4.9.9",
-      "php_version": "5.2.4",
-      "mysql_version": "5.0",
-      "new_bundled": "5.0",
-      "partial_version": false,
-      "new_files": true
+      "partial_version": false
     },
     {
       "response": "autoupdate",
